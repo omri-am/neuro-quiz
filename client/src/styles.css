@@ -106,3 +106,9 @@
   font-size: 10px;
   color: gray;
 }
+
+.main-logo {
+  max-width: 170px;
+  position: absolute;
+  top: 150px;
+}

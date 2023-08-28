@@ -17,6 +17,11 @@ const MenuScreen = ({
 
   return (
     <div className="container">
+      <img
+        src="../../../public/sagol.jpg"
+        alt="Sagol School of Neurosciense"
+        className="main-logo"
+      ></img>
       <div className="menu-screen">
         <h1>Neuroanatomy Quiz</h1>
         <h2>Select Dissection Labs</h2>
