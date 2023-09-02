@@ -1,4 +1,9 @@
-# neuro-quiz
+# Neuroanatomy Identification Quiz
+Choose which disection labs you want to practice and identify the parts!
+* Normal Mode - all the labs' photos will be shown in a random order.
+* Test Simulation Mode - the game will randomly choose 70 photos from the chosen labs.
+At the end of the game, you'll be shown your correct and in-correct answers.
+
 > [!IMPORTANT]
 > Nodejs is required to run this.
 
