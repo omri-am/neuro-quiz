@@ -62,7 +62,7 @@ const MenuScreen = ({
         </div>
       </div>
       <div className="author-info">
-        © Sagol School of Neuroscience and Omri Amit
+        © Sagol School of Neuroscience & Omri Amit
       </div>
     </div>
   );

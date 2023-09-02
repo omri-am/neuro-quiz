@@ -38,7 +38,7 @@ const highlightIncorrectLetters = (answer, correctAnswer) => {
 const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
   return (
     <div>
-      <h1>Image Quiz App</h1>
+      <h1>Neuroanatomy Quiz</h1>
       <div>
         <p>
           Quiz completed! Final Score: {score} out of {shuffledImages.length}
