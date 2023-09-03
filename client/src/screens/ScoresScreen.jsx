@@ -51,7 +51,7 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
             .filter((answer) => answer.isAnswerCorrect)
             .sort((a, b) => a.answerDistance - b.answerDistance)
             .map((answer, index) => (
-              <div key={`answer_${index}`} className="answer-card">
+              <div key={`answer_${index}`} className="result-item">
                 <img
                   src={`${imagesPath}/${answer.image.filename}`}
                   alt={answer.image.name}
