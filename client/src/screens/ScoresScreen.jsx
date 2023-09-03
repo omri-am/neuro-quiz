@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 const imagesPath = "../../../server/images";
 
@@ -36,6 +36,7 @@ const highlightIncorrectLetters = (answer, correctAnswer) => {
 };
 
 const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
+  const [hoveredCardIndex, setHoveredCardIndex] = useState(null);
   return (
     <div>
       <h1>Neuroanatomy Quiz</h1>
@@ -50,11 +51,11 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
             .filter((answer) => answer.isAnswerCorrect)
             .sort((a, b) => a.answerDistance - b.answerDistance)
             .map((answer, index) => (
-              <div key={`answer_${index}`} className="result-item">
+              <div key={`answer_${index}`} className="answer-card">
                 <img
                   src={`${imagesPath}/${answer.image.filename}`}
                   alt={answer.image.name}
-                  style={{ maxWidth: "200px", maxHeight: "200px" }}
+                  style={{ maxHeight: "200px" }}
                 />
                 <p>
                   <b>Expected: </b>
@@ -91,7 +92,14 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
             .filter((answer) => !answer.isAnswerCorrect)
             .sort((a, b) => a.answerDistance - b.answerDistance)
             .map((answer, index) => (
-              <div key={`answer_${index}`} className="result-item">
+              <div
+                key={`answer_${index}`}
+                className={`result-item ${
+                  index === hoveredCardIndex ? "hovered-card" : ""
+                }`}
+                onMouseEnter={() => setHoveredCardIndex(index)}
+                onMouseLeave={() => setHoveredCardIndex(null)}
+              >
                 <img
                   src={`${imagesPath}/${answer.image.filename}`}
                   alt={answer.image.name}
