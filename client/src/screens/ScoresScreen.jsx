@@ -37,6 +37,51 @@ const highlightIncorrectLetters = (answer, correctAnswer) => {
 
 const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
   const [hoveredCardIndex, setHoveredCardIndex] = useState(null);
+  const resultsGrid = (answers, correct) => {
+    return answers
+      .filter((answer) =>
+        correct ? answer.isAnswerCorrect : !answer.isAnswerCorrect
+      )
+      .sort((a, b) => a.answerDistance - b.answerDistance)
+      .map((answer, index) => (
+        <div
+          key={`answer_${index}`}
+          className={`result-item ${
+            index === hoveredCardIndex ? "hovered-card" : ""
+          }`}
+          onMouseEnter={() => setHoveredCardIndex(index)}
+          onMouseLeave={() => setHoveredCardIndex(null)}
+        >
+          <img
+            src={`${imagesPath}/${answer.image.filename}`}
+            alt={answer.image.name}
+            style={{ maxWidth: "85%", maxHeight: "250px" }}
+          />
+          <p>
+            <b>Expected: </b>
+            {answer.image.name}
+          </p>
+          <p>
+            <b>Your answer:</b>{" "}
+            <span>
+              {highlightIncorrectLetters(answer.answer, answer.image.name)}
+            </span>
+          </p>
+          <p>
+            {answer.isAnswerCorrect !== null && (
+              <span
+                className={
+                  answer.isAnswerCorrect ? "correct-answer" : "incorrect-answer"
+                }
+              >
+                {answer.isAnswerCorrect ? "✓" : "✕"}
+              </span>
+            )}
+          </p>
+        </div>
+      ));
+  };
+
   return (
     <div>
       <h1>Neuroanatomy Quiz</h1>
@@ -47,93 +92,10 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
         <button onClick={handleTryAgain}>Try again</button>
         <h2>Correct Answers</h2>
         <div className="results-grid">
-          {answers
-            .filter((answer) => answer.isAnswerCorrect)
-            .sort((a, b) => a.answerDistance - b.answerDistance)
-            .map((answer, index) => (
-              <div key={`answer_${index}`} className="result-item">
-                <img
-                  src={`${imagesPath}/${answer.image.filename}`}
-                  alt={answer.image.name}
-                  style={{ maxHeight: "200px" }}
-                />
-                <p>
-                  <b>Expected: </b>
-                  {answer.image.name}
-                </p>
-                <p>
-                  <b>Your answer:</b>{" "}
-                  <span>
-                    {highlightIncorrectLetters(
-                      answer.answer,
-                      answer.image.name
-                    )}
-                  </span>
-                </p>
-                <p>
-                  {answer.isAnswerCorrect !== null && (
-                    <span
-                      className={
-                        answer.isAnswerCorrect
-                          ? "correct-answer"
-                          : "incorrect-answer"
-                      }
-                    >
-                      {answer.isAnswerCorrect ? "✓" : "✕"}
-                    </span>
-                  )}
-                </p>
-              </div>
-            ))}
+          {<div className="results-grid">{resultsGrid(answers, true)}</div>}
         </div>
         <h2>Incorrect Answers</h2>
-        <div className="results-grid">
-          {answers
-            .filter((answer) => !answer.isAnswerCorrect)
-            .sort((a, b) => a.answerDistance - b.answerDistance)
-            .map((answer, index) => (
-              <div
-                key={`answer_${index}`}
-                className={`result-item ${
-                  index === hoveredCardIndex ? "hovered-card" : ""
-                }`}
-                onMouseEnter={() => setHoveredCardIndex(index)}
-                onMouseLeave={() => setHoveredCardIndex(null)}
-              >
-                <img
-                  src={`${imagesPath}/${answer.image.filename}`}
-                  alt={answer.image.name}
-                  style={{ maxWidth: "200px", maxHeight: "200px" }}
-                />
-                <p>
-                  <b>Expected: </b>
-                  {answer.image.name}
-                </p>
-                <p>
-                  <b>Your answer:</b>{" "}
-                  <span>
-                    {highlightIncorrectLetters(
-                      answer.answer,
-                      answer.image.name
-                    )}
-                  </span>
-                </p>
-                <p>
-                  {answer.isAnswerCorrect !== null && (
-                    <span
-                      className={
-                        answer.isAnswerCorrect
-                          ? "correct-answer"
-                          : "incorrect-answer"
-                      }
-                    >
-                      {answer.isAnswerCorrect ? "✓" : "✕"}
-                    </span>
-                  )}
-                </p>
-              </div>
-            ))}
-        </div>
+        <div className="results-grid">{resultsGrid(answers, false)}</div>
       </div>
     </div>
   );
