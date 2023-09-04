@@ -7,7 +7,11 @@ const highlightIncorrectLetters = (answer, correctAnswer) => {
   const correctWords = correctAnswer.split(" ");
   const highlighted = [];
 
-  for (let i = 0; i < correctWords.length; i++) {
+  for (
+    let i = 0;
+    i < Math.max(correctWords.length, submittedWords.length);
+    i++
+  ) {
     const correctWord = correctWords[i] || "";
     const submittedWord = submittedWords[i] || "";
 
@@ -91,9 +95,7 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
         </p>
         <button onClick={handleTryAgain}>Try again</button>
         <h2>Correct Answers</h2>
-        <div className="results-grid">
-          {<div className="results-grid">{resultsGrid(answers, true)}</div>}
-        </div>
+        <div className="results-grid"> {resultsGrid(answers, true)}</div>
         <h2>Incorrect Answers</h2>
         <div className="results-grid">{resultsGrid(answers, false)}</div>
       </div>

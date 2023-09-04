@@ -41,6 +41,9 @@ const App = () => {
     const blacklist = [
       ["ventral", "dorsal"],
       ["median", "medial"],
+      ["superior", "inferior"],
+      ["superior", "middle"],
+      ["middle", "inferior"],
     ];
 
     const hasBlacklistedPair = blacklist.some(
