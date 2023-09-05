@@ -1,9 +1,5 @@
 [
   {
-    "filename": "test_test.jpg",
-    "name": "test"
-  },
-  {
     "filename": "BS_area postrema.jpg",
     "name": "area postrema"
   },
@@ -1020,6 +1016,10 @@
     "name": "hypophyseal fossa"
   },
   {
+    "filename": "Endocranium_incisura tentorii.jpg",
+    "name": "incisura tentorii"
+  },
+  {
     "filename": "Endocranium_inferior sagittal sinus.jpg",
     "name": "inferior sagittal sinus"
   },
@@ -1486,5 +1486,9 @@
   {
     "filename": "WM_uncinate fasciculus.jpg",
     "name": "uncinate fasciculus"
+  },
+  {
+    "filename": "test_test.jpg",
+    "name": "test"
   }
 ]
