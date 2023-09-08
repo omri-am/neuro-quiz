@@ -34,7 +34,7 @@ const MenuScreen = ({
                 checked={selectedSets.includes(set)}
                 onChange={handleSetSelection}
               />{" "}
-              Lab {set}
+              {set}
             </label>
           ))}
         </div>

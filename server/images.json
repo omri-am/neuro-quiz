@@ -1,402 +1,402 @@
 [
   {
-    "filename": "BS_area postrema.jpg",
-    "name": "area postrema"
-  },
-  {
-    "filename": "BS_basilar sulcus.jpg",
-    "name": "basilar sulcus"
-  },
-  {
-    "filename": "BS_cerebral aqueduct.jpg",
-    "name": "cerebral aqueduct"
-  },
-  {
-    "filename": "BS_corticospinal and corticopontine fibers.jpg",
-    "name": "corticospinal and corticopontine fibers"
-  },
-  {
-    "filename": "BS_crus cerebri.jpg",
-    "name": "crus cerebri"
-  },
-  {
-    "filename": "BS_crus cerebri_ventral.jpg",
-    "name": "crus cerebri"
-  },
-  {
-    "filename": "BS_cuneate tubercle.jpg",
-    "name": "cuneate tubercle"
-  },
-  {
-    "filename": "BS_decussation of superior cerebellar peduncle.jpg",
-    "name": "decussation of superior cerebellar peduncle"
-  },
-  {
-    "filename": "BS_dorsal median sulcus.jpg",
-    "name": "dorsal median sulcus"
-  },
-  {
-    "filename": "BS_facial colliculi.jpg",
-    "name": "facial colliculi"
-  },
-  {
-    "filename": "BS_fasciculus cuneatus.jpg",
-    "name": "fasciculus cuneatus"
-  },
-  {
-    "filename": "BS_fasciculus gracilis.jpg",
-    "name": "fasciculus gracilis"
-  },
-  {
-    "filename": "BS_fourth ventricle.jpg",
-    "name": "fourth ventricle"
-  },
-  {
-    "filename": "BS_gracile tubercle.jpg",
-    "name": "gracile tubercle"
-  },
-  {
-    "filename": "BS_hypoglossal trigone.jpg",
-    "name": "hypoglossal trigone"
-  },
-  {
-    "filename": "BS_inferior brachium.jpg",
-    "name": "inferior brachium"
-  },
-  {
-    "filename": "BS_inferior cerebellar peduncle.jpg",
-    "name": "inferior cerebellar peduncle"
-  },
-  {
-    "filename": "BS_inferior cerebellar peduncle_horizontal.jpg",
-    "name": "inferior cerebellar peduncle"
-  },
-  {
-    "filename": "BS_inferior colliculi_horizontal.jpg",
-    "name": "inferior colliculi"
-  },
-  {
-    "filename": "BS_interpeduncular fossa.jpg",
-    "name": "interpeduncular fossa"
-  },
-  {
-    "filename": "BS_locus coeruleus.jpg",
-    "name": "locus coeruleus"
-  },
-  {
-    "filename": "BS_medial eminence.jpg",
-    "name": "medial eminence"
-  },
-  {
-    "filename": "BS_median sulcus.jpg",
-    "name": "median sulcus"
-  },
-  {
-    "filename": "BS_medullary striae.jpg",
-    "name": "medullary striae"
-  },
-  {
-    "filename": "BS_middle cerebellar peduncle.jpg",
-    "name": "middle cerebellar peduncle"
-  },
-  {
-    "filename": "BS_obex.jpg",
-    "name": "obex"
-  },
-  {
-    "filename": "BS_olive nucleus.jpg",
-    "name": "olive nucleus"
-  },
-  {
-    "filename": "BS_periaqueductal gray.jpg",
-    "name": "periaqueductal gray"
-  },
-  {
-    "filename": "BS_pontocerebellar fibers.jpg",
-    "name": "pontocerebellar fibers"
-  },
-  {
-    "filename": "BS_pyramid.jpg",
-    "name": "pyramid"
-  },
-  {
-    "filename": "BS_pyramidal decussation.jpg",
-    "name": "pyramidal decussation"
-  },
-  {
-    "filename": "BS_red nucleus.jpg",
-    "name": "red nucleus"
-  },
-  {
-    "filename": "BS_substantia nigra.jpg",
-    "name": "substantia nigra"
-  },
-  {
-    "filename": "BS_sulcus limitans.jpg",
-    "name": "sulcus limitans"
-  },
-  {
-    "filename": "BS_superior brachium.jpg",
-    "name": "superior brachium"
-  },
-  {
-    "filename": "BS_superior cerebellar peduncle_dorsal.jpg",
-    "name": "superior cerebellar peduncle"
-  },
-  {
-    "filename": "BS_superior cerebellar peduncle_horizontal.jpg",
-    "name": "superior cerebellar peduncle"
-  },
-  {
-    "filename": "BS_superior colliculi_horizontal.jpg",
-    "name": "superior colliculi"
-  },
-  {
-    "filename": "BS_superior medullary velum_horizontal.jpg",
-    "name": "superior medullary velum"
-  },
-  {
-    "filename": "BS_tectum of midbrain.jpg",
-    "name": "tectum of midbrain"
-  },
-  {
-    "filename": "BS_tegmentum of midbrain.jpg",
-    "name": "tegmentum of midbrain"
-  },
-  {
-    "filename": "BS_tegmentum of pons.jpg",
-    "name": "tegmentum of pons"
-  },
-  {
-    "filename": "BS_trigeminal nerve.jpg",
-    "name": "trigeminal nerve"
-  },
-  {
-    "filename": "BS_vagal trigone.jpg",
-    "name": "vagal trigone"
-  },
-  {
-    "filename": "BS_ventral median sulcus.jpg",
-    "name": "ventral median sulcus"
-  },
-  {
-    "filename": "BS_vestibular area.jpg",
-    "name": "vestibular area"
-  },
-  {
-    "filename": "BV_AICA.jpg",
+    "filename": "Blood Vessels_AICA.jpg",
     "name": "AICA"
   },
   {
-    "filename": "BV_PICA.jpg",
+    "filename": "Blood Vessels_PICA.jpg",
     "name": "PICA"
   },
   {
-    "filename": "BV_abducens nerve.jpg",
+    "filename": "Blood Vessels_abducens nerve.jpg",
     "name": "abducens nerve"
   },
   {
-    "filename": "BV_anterior cerebral artery.jpg",
+    "filename": "Blood Vessels_anterior cerebral artery.jpg",
     "name": "anterior cerebral artery"
   },
   {
-    "filename": "BV_anterior cerebral vein.jpg",
+    "filename": "Blood Vessels_anterior cerebral vein.jpg",
     "name": "anterior cerebral vein"
   },
   {
-    "filename": "BV_anterior communicating artery.jpg",
+    "filename": "Blood Vessels_anterior communicating artery.jpg",
     "name": "anterior communicating artery"
   },
   {
-    "filename": "BV_basal vein.jpg",
+    "filename": "Blood Vessels_basal vein.jpg",
     "name": "basal vein"
   },
   {
-    "filename": "BV_basal vein_.jpg",
+    "filename": "Blood Vessels_basal vein_.jpg",
     "name": "basal vein"
   },
   {
-    "filename": "BV_basilar artery.jpg",
+    "filename": "Blood Vessels_basilar artery.jpg",
     "name": "basilar artery"
   },
   {
-    "filename": "BV_choroidal vein.jpg",
+    "filename": "Blood Vessels_choroidal vein.jpg",
     "name": "choroidal vein"
   },
   {
-    "filename": "BV_deep middle cerebral vein.jpg",
+    "filename": "Blood Vessels_deep middle cerebral vein.jpg",
     "name": "deep middle cerebral vein"
   },
   {
-    "filename": "BV_great cerebral vein.jpg",
+    "filename": "Blood Vessels_great cerebral vein.jpg",
     "name": "great cerebral vein"
   },
   {
-    "filename": "BV_great cerebral vein_of gallen.jpg",
+    "filename": "Blood Vessels_great cerebral vein_of gallen.jpg",
     "name": "great cerebral vein"
   },
   {
-    "filename": "BV_inferior anastomotic vein.jpg",
+    "filename": "Blood Vessels_inferior anastomotic vein.jpg",
     "name": "inferior anastomotic vein"
   },
   {
-    "filename": "BV_internal carotid artery.jpg",
+    "filename": "Blood Vessels_internal carotid artery.jpg",
     "name": "internal carotid artery"
   },
   {
-    "filename": "BV_internal cerebral vein.jpg",
+    "filename": "Blood Vessels_internal cerebral vein.jpg",
     "name": "internal cerebral vein"
   },
   {
-    "filename": "BV_middle cerebral artery.jpg",
+    "filename": "Blood Vessels_middle cerebral artery.jpg",
     "name": "middle cerebral artery"
   },
   {
-    "filename": "BV_occulomotor nerve.jpg",
+    "filename": "Blood Vessels_occulomotor nerve.jpg",
     "name": "occulomotor nerve"
   },
   {
-    "filename": "BV_posterior cerebral artery.jpg",
+    "filename": "Blood Vessels_posterior cerebral artery.jpg",
     "name": "posterior cerebral artery"
   },
   {
-    "filename": "BV_posterior cerebral artery_posterior circle.jpg",
+    "filename": "Blood Vessels_posterior cerebral artery_posterior circle.jpg",
     "name": "posterior cerebral artery"
   },
   {
-    "filename": "BV_posterior communicating artery.jpg",
+    "filename": "Blood Vessels_posterior communicating artery.jpg",
     "name": "posterior communicating artery"
   },
   {
-    "filename": "BV_septal vein.jpg",
+    "filename": "Blood Vessels_septal vein.jpg",
     "name": "septal vein"
   },
   {
-    "filename": "BV_straight sinus_.jpg",
+    "filename": "Blood Vessels_straight sinus_.jpg",
     "name": "straight sinus"
   },
   {
-    "filename": "BV_superficial middle cerebral vein.jpg",
+    "filename": "Blood Vessels_superficial middle cerebral vein.jpg",
     "name": "superficial middle cerebral vein"
   },
   {
-    "filename": "BV_superior anastomotic vein.jpg",
+    "filename": "Blood Vessels_superior anastomotic vein.jpg",
     "name": "superior anastomotic vein"
   },
   {
-    "filename": "BV_superior cerebellar artery.jpg",
+    "filename": "Blood Vessels_superior cerebellar artery.jpg",
     "name": "superior cerebellar artery"
   },
   {
-    "filename": "BV_superior sagittal sinus.jpg",
+    "filename": "Blood Vessels_superior sagittal sinus.jpg",
     "name": "superior sagittal sinus"
   },
   {
-    "filename": "BV_thalamostriate vein.jpg",
+    "filename": "Blood Vessels_thalamostriate vein.jpg",
     "name": "thalamostriate vein"
   },
   {
-    "filename": "BV_transverse sinus.jpg",
+    "filename": "Blood Vessels_transverse sinus.jpg",
     "name": "transverse sinus"
   },
   {
-    "filename": "BV_vertebral artery.jpg",
+    "filename": "Blood Vessels_vertebral artery.jpg",
     "name": "vertebral artery"
   },
   {
-    "filename": "CN_abducens nerve.jpg",
-    "name": "abducens nerve"
+    "filename": "Brain Stem_area postrema.jpg",
+    "name": "area postrema"
   },
   {
-    "filename": "CN_accessory nerve.jpg",
-    "name": "accessory nerve"
+    "filename": "Brain Stem_basilar sulcus.jpg",
+    "name": "basilar sulcus"
   },
   {
-    "filename": "CN_facial nerve.jpg",
-    "name": "facial nerve"
+    "filename": "Brain Stem_cerebral aqueduct.jpg",
+    "name": "cerebral aqueduct"
   },
   {
-    "filename": "CN_glossopharyngeal nerve.jpg",
-    "name": "glossopharyngeal nerve"
+    "filename": "Brain Stem_corticospinal and corticopontine fibers.jpg",
+    "name": "corticospinal and corticopontine fibers"
   },
   {
-    "filename": "CN_hypoglossal nerve.jpg",
-    "name": "hypoglossal nerve"
+    "filename": "Brain Stem_crus cerebri.jpg",
+    "name": "crus cerebri"
   },
   {
-    "filename": "CN_inferior cerebellar peduncle.jpg",
+    "filename": "Brain Stem_crus cerebri_ventral.jpg",
+    "name": "crus cerebri"
+  },
+  {
+    "filename": "Brain Stem_cuneate tubercle.jpg",
+    "name": "cuneate tubercle"
+  },
+  {
+    "filename": "Brain Stem_decussation of superior cerebellar peduncle.jpg",
+    "name": "decussation of superior cerebellar peduncle"
+  },
+  {
+    "filename": "Brain Stem_dorsal median sulcus.jpg",
+    "name": "dorsal median sulcus"
+  },
+  {
+    "filename": "Brain Stem_facial colliculi.jpg",
+    "name": "facial colliculi"
+  },
+  {
+    "filename": "Brain Stem_fasciculus cuneatus.jpg",
+    "name": "fasciculus cuneatus"
+  },
+  {
+    "filename": "Brain Stem_fasciculus gracilis.jpg",
+    "name": "fasciculus gracilis"
+  },
+  {
+    "filename": "Brain Stem_fourth ventricle.jpg",
+    "name": "fourth ventricle"
+  },
+  {
+    "filename": "Brain Stem_gracile tubercle.jpg",
+    "name": "gracile tubercle"
+  },
+  {
+    "filename": "Brain Stem_hypoglossal trigone.jpg",
+    "name": "hypoglossal trigone"
+  },
+  {
+    "filename": "Brain Stem_inferior brachium.jpg",
+    "name": "inferior brachium"
+  },
+  {
+    "filename": "Brain Stem_inferior cerebellar peduncle.jpg",
     "name": "inferior cerebellar peduncle"
   },
   {
-    "filename": "CN_inferior colliculi.jpg",
+    "filename": "Brain Stem_inferior cerebellar peduncle_horizontal.jpg",
+    "name": "inferior cerebellar peduncle"
+  },
+  {
+    "filename": "Brain Stem_inferior colliculi_horizontal.jpg",
     "name": "inferior colliculi"
   },
   {
-    "filename": "CN_interpeduncular fossa.jpg",
+    "filename": "Brain Stem_interpeduncular fossa.jpg",
     "name": "interpeduncular fossa"
   },
   {
-    "filename": "CN_lateral olfactory stria.jpg",
-    "name": "lateral olfactory stria"
+    "filename": "Brain Stem_locus coeruleus.jpg",
+    "name": "locus coeruleus"
   },
   {
-    "filename": "CN_medial olfactory stria.jpg",
-    "name": "medial olfactory stria"
+    "filename": "Brain Stem_medial eminence.jpg",
+    "name": "medial eminence"
   },
   {
-    "filename": "CN_middle cerebellar peduncle.jpg",
+    "filename": "Brain Stem_median sulcus.jpg",
+    "name": "median sulcus"
+  },
+  {
+    "filename": "Brain Stem_medullary striae.jpg",
+    "name": "medullary striae"
+  },
+  {
+    "filename": "Brain Stem_middle cerebellar peduncle.jpg",
     "name": "middle cerebellar peduncle"
   },
   {
-    "filename": "CN_occulomotor nerve.jpg",
-    "name": "occulomotor nerve"
+    "filename": "Brain Stem_obex.jpg",
+    "name": "obex"
   },
   {
-    "filename": "CN_olfactory bulb.jpg",
-    "name": "olfactory bulb"
+    "filename": "Brain Stem_olive nucleus.jpg",
+    "name": "olive nucleus"
   },
   {
-    "filename": "CN_olfactory tract.jpg",
-    "name": "olfactory tract"
+    "filename": "Brain Stem_periaqueductal gray.jpg",
+    "name": "periaqueductal gray"
   },
   {
-    "filename": "CN_olive.jpg",
-    "name": "olive"
+    "filename": "Brain Stem_pontocerebellar fibers.jpg",
+    "name": "pontocerebellar fibers"
   },
   {
-    "filename": "CN_optic chiasm.jpg",
-    "name": "optic chiasm"
-  },
-  {
-    "filename": "CN_optic nerve.jpg",
-    "name": "optic nerve"
-  },
-  {
-    "filename": "CN_optic tract.jpg",
-    "name": "optic tract"
-  },
-  {
-    "filename": "CN_pontomedullary sulcus.jpg",
-    "name": "pontomedullary sulcus"
-  },
-  {
-    "filename": "CN_pyramid.jpg",
+    "filename": "Brain Stem_pyramid.jpg",
     "name": "pyramid"
   },
   {
-    "filename": "CN_trigeminal nerve.jpg",
+    "filename": "Brain Stem_pyramidal decussation.jpg",
+    "name": "pyramidal decussation"
+  },
+  {
+    "filename": "Brain Stem_red nucleus.jpg",
+    "name": "red nucleus"
+  },
+  {
+    "filename": "Brain Stem_substantia nigra.jpg",
+    "name": "substantia nigra"
+  },
+  {
+    "filename": "Brain Stem_sulcus limitans.jpg",
+    "name": "sulcus limitans"
+  },
+  {
+    "filename": "Brain Stem_superior brachium.jpg",
+    "name": "superior brachium"
+  },
+  {
+    "filename": "Brain Stem_superior cerebellar peduncle_dorsal.jpg",
+    "name": "superior cerebellar peduncle"
+  },
+  {
+    "filename": "Brain Stem_superior cerebellar peduncle_horizontal.jpg",
+    "name": "superior cerebellar peduncle"
+  },
+  {
+    "filename": "Brain Stem_superior colliculi_horizontal.jpg",
+    "name": "superior colliculi"
+  },
+  {
+    "filename": "Brain Stem_superior medullary velum_horizontal.jpg",
+    "name": "superior medullary velum"
+  },
+  {
+    "filename": "Brain Stem_tectum of midbrain.jpg",
+    "name": "tectum of midbrain"
+  },
+  {
+    "filename": "Brain Stem_tegmentum of midbrain.jpg",
+    "name": "tegmentum of midbrain"
+  },
+  {
+    "filename": "Brain Stem_tegmentum of pons.jpg",
+    "name": "tegmentum of pons"
+  },
+  {
+    "filename": "Brain Stem_trigeminal nerve.jpg",
     "name": "trigeminal nerve"
   },
   {
-    "filename": "CN_trochlear.jpg",
+    "filename": "Brain Stem_vagal trigone.jpg",
+    "name": "vagal trigone"
+  },
+  {
+    "filename": "Brain Stem_ventral median sulcus.jpg",
+    "name": "ventral median sulcus"
+  },
+  {
+    "filename": "Brain Stem_vestibular area.jpg",
+    "name": "vestibular area"
+  },
+  {
+    "filename": "Carnial Nerves_abducens nerve.jpg",
+    "name": "abducens nerve"
+  },
+  {
+    "filename": "Carnial Nerves_accessory nerve.jpg",
+    "name": "accessory nerve"
+  },
+  {
+    "filename": "Carnial Nerves_facial nerve.jpg",
+    "name": "facial nerve"
+  },
+  {
+    "filename": "Carnial Nerves_glossopharyngeal nerve.jpg",
+    "name": "glossopharyngeal nerve"
+  },
+  {
+    "filename": "Carnial Nerves_hypoglossal nerve.jpg",
+    "name": "hypoglossal nerve"
+  },
+  {
+    "filename": "Carnial Nerves_inferior cerebellar peduncle.jpg",
+    "name": "inferior cerebellar peduncle"
+  },
+  {
+    "filename": "Carnial Nerves_inferior colliculi.jpg",
+    "name": "inferior colliculi"
+  },
+  {
+    "filename": "Carnial Nerves_interpeduncular fossa.jpg",
+    "name": "interpeduncular fossa"
+  },
+  {
+    "filename": "Carnial Nerves_lateral olfactory stria.jpg",
+    "name": "lateral olfactory stria"
+  },
+  {
+    "filename": "Carnial Nerves_medial olfactory stria.jpg",
+    "name": "medial olfactory stria"
+  },
+  {
+    "filename": "Carnial Nerves_middle cerebellar peduncle.jpg",
+    "name": "middle cerebellar peduncle"
+  },
+  {
+    "filename": "Carnial Nerves_occulomotor nerve.jpg",
+    "name": "occulomotor nerve"
+  },
+  {
+    "filename": "Carnial Nerves_olfactory bulb.jpg",
+    "name": "olfactory bulb"
+  },
+  {
+    "filename": "Carnial Nerves_olfactory tract.jpg",
+    "name": "olfactory tract"
+  },
+  {
+    "filename": "Carnial Nerves_olive.jpg",
+    "name": "olive"
+  },
+  {
+    "filename": "Carnial Nerves_optic chiasm.jpg",
+    "name": "optic chiasm"
+  },
+  {
+    "filename": "Carnial Nerves_optic nerve.jpg",
+    "name": "optic nerve"
+  },
+  {
+    "filename": "Carnial Nerves_optic tract.jpg",
+    "name": "optic tract"
+  },
+  {
+    "filename": "Carnial Nerves_pontomedullary sulcus.jpg",
+    "name": "pontomedullary sulcus"
+  },
+  {
+    "filename": "Carnial Nerves_pyramid.jpg",
+    "name": "pyramid"
+  },
+  {
+    "filename": "Carnial Nerves_trigeminal nerve.jpg",
+    "name": "trigeminal nerve"
+  },
+  {
+    "filename": "Carnial Nerves_trochlear.jpg",
     "name": "trochlear"
   },
   {
-    "filename": "CN_vagus nerve.jpg",
+    "filename": "Carnial Nerves_vagus nerve.jpg",
     "name": "vagus nerve"
   },
   {
-    "filename": "CN_vestibulocochlear nerve.jpg",
+    "filename": "Carnial Nerves_vestibulocochlear nerve.jpg",
     "name": "vestibulocochlear nerve"
   },
   {
@@ -872,127 +872,127 @@
     "name": "uncus"
   },
   {
-    "filename": "CorSec_amygdala.jpg",
+    "filename": "Coronal Sections_amygdala.jpg",
     "name": "amygdala"
   },
   {
-    "filename": "CorSec_anterior commissure.jpg",
+    "filename": "Coronal Sections_anterior commissure.jpg",
     "name": "anterior commissure"
   },
   {
-    "filename": "CorSec_anterior commissure_1.jpg",
+    "filename": "Coronal Sections_anterior commissure_1.jpg",
     "name": "anterior commissure"
   },
   {
-    "filename": "CorSec_body of fornix.jpg",
+    "filename": "Coronal Sections_body of fornix.jpg",
     "name": "body of fornix"
   },
   {
-    "filename": "CorSec_column of fornix.jpg",
+    "filename": "Coronal Sections_column of fornix.jpg",
     "name": "column of fornix"
   },
   {
-    "filename": "CorSec_crus cerebri.jpg",
+    "filename": "Coronal Sections_crus cerebri.jpg",
     "name": "crus cerebri"
   },
   {
-    "filename": "CorSec_crus of fornix_1.jpg",
+    "filename": "Coronal Sections_crus of fornix_1.jpg",
     "name": "crus of fornix"
   },
   {
-    "filename": "CorSec_dentate gyrus.jpg",
+    "filename": "Coronal Sections_dentate gyrus.jpg",
     "name": "dentate gyrus"
   },
   {
-    "filename": "CorSec_dentate gyrus_1.jpg",
+    "filename": "Coronal Sections_dentate gyrus_1.jpg",
     "name": "dentate gyrus"
   },
   {
-    "filename": "CorSec_fimbria.jpg",
+    "filename": "Coronal Sections_fimbria.jpg",
     "name": "fimbria"
   },
   {
-    "filename": "CorSec_fimbria_1.jpg",
+    "filename": "Coronal Sections_fimbria_1.jpg",
     "name": "fimbria"
   },
   {
-    "filename": "CorSec_hippocampus.jpg",
+    "filename": "Coronal Sections_hippocampus.jpg",
     "name": "hippocampus"
   },
   {
-    "filename": "CorSec_hypothalami.jpg",
+    "filename": "Coronal Sections_hypothalami.jpg",
     "name": "hypothalami"
   },
   {
-    "filename": "CorSec_infundibulum.jpg",
+    "filename": "Coronal Sections_infundibulum.jpg",
     "name": "infundibulum"
   },
   {
-    "filename": "CorSec_interventricular foramen_1.jpg",
+    "filename": "Coronal Sections_interventricular foramen_1.jpg",
     "name": "interventricular foramen"
   },
   {
-    "filename": "CorSec_lateral geniculate body.jpg",
+    "filename": "Coronal Sections_lateral geniculate body.jpg",
     "name": "lateral geniculate body"
   },
   {
-    "filename": "CorSec_mammilary bodies.jpg",
+    "filename": "Coronal Sections_mammilary bodies.jpg",
     "name": "mammilary bodies"
   },
   {
-    "filename": "CorSec_mammilothalamic tract.jpg",
+    "filename": "Coronal Sections_mammilothalamic tract.jpg",
     "name": "mammilothalamic tract"
   },
   {
-    "filename": "CorSec_medial geniculate body.jpg",
+    "filename": "Coronal Sections_medial geniculate body.jpg",
     "name": "medial geniculate body"
   },
   {
-    "filename": "CorSec_nucleus accumbens.jpg",
+    "filename": "Coronal Sections_nucleus accumbens.jpg",
     "name": "nucleus accumbens"
   },
   {
-    "filename": "CorSec_optic chiasm.jpg",
+    "filename": "Coronal Sections_optic chiasm.jpg",
     "name": "optic chiasm"
   },
   {
-    "filename": "CorSec_optic tract.jpg",
+    "filename": "Coronal Sections_optic tract.jpg",
     "name": "optic tract"
   },
   {
-    "filename": "CorSec_optic tract_1.jpg",
+    "filename": "Coronal Sections_optic tract_1.jpg",
     "name": "optic tract"
   },
   {
-    "filename": "CorSec_parahippocampal gyrus.jpg",
+    "filename": "Coronal Sections_parahippocampal gyrus.jpg",
     "name": "parahippocampal gyrus"
   },
   {
-    "filename": "CorSec_putamen.jpg",
+    "filename": "Coronal Sections_putamen.jpg",
     "name": "putamen"
   },
   {
-    "filename": "CorSec_red nucleus.jpg",
+    "filename": "Coronal Sections_red nucleus.jpg",
     "name": "red nucleus"
   },
   {
-    "filename": "CorSec_subthalamic nucleus.jpg",
+    "filename": "Coronal Sections_subthalamic nucleus.jpg",
     "name": "subthalamic nucleus"
   },
   {
-    "filename": "CorSec_tail of caudate.jpg",
+    "filename": "Coronal Sections_tail of caudate.jpg",
     "name": "tail of caudate"
   },
   {
-    "filename": "CorSec_thalamostriate vein and stria terminalis.jpg",
+    "filename": "Coronal Sections_thalamostriate vein and stria terminalis.jpg",
     "name": "thalamostriate vein and stria terminalis"
   },
   {
-    "filename": "CorSec_third ventricle_1.jpg",
+    "filename": "Coronal Sections_third ventricle_1.jpg",
     "name": "third ventricle"
   },
   {
-    "filename": "CorSec_third ventricle_2.jpg",
+    "filename": "Coronal Sections_third ventricle_2.jpg",
     "name": "third ventricle"
   },
   {
@@ -1068,423 +1068,423 @@
     "name": "transverse sinus"
   },
   {
-    "filename": "Vent_alveus.jpg",
-    "name": "alveus"
-  },
-  {
-    "filename": "Vent_body of caudate.jpg",
-    "name": "body of caudate"
-  },
-  {
-    "filename": "Vent_bulb of occipital horn.jpg",
-    "name": "bulb of occipital horn"
-  },
-  {
-    "filename": "Vent_calcar avis.jpg",
-    "name": "calcar avis"
-  },
-  {
-    "filename": "Vent_calcarine sulcus.jpg",
-    "name": "calcarine sulcus"
-  },
-  {
-    "filename": "Vent_cerebral aqueduct.jpg",
-    "name": "cerebral aqueduct"
-  },
-  {
-    "filename": "Vent_choroid fissure.jpg",
-    "name": "choroid fissure"
-  },
-  {
-    "filename": "Vent_choroid plexus.jpg",
-    "name": "choroid plexus"
-  },
-  {
-    "filename": "Vent_choroid plexus_.jpg",
-    "name": "choroid plexus"
-  },
-  {
-    "filename": "Vent_choroid plexus_temp horn.jpg",
-    "name": "choroid plexus"
-  },
-  {
-    "filename": "Vent_collateral eminence.jpg",
-    "name": "collateral eminence"
-  },
-  {
-    "filename": "Vent_collateral sulcus.jpg",
-    "name": "collateral sulcus"
-  },
-  {
-    "filename": "Vent_cornu ammonis.jpg",
-    "name": "cornu ammonis"
-  },
-  {
-    "filename": "Vent_dentate gyrus.jpg",
-    "name": "dentate gyrus"
-  },
-  {
-    "filename": "Vent_fimbria.jpg",
-    "name": "fimbria"
-  },
-  {
-    "filename": "Vent_forceps major.jpg",
-    "name": "forceps major"
-  },
-  {
-    "filename": "Vent_fornices.jpg",
-    "name": "fornices"
-  },
-  {
-    "filename": "Vent_fornix.jpg",
-    "name": "fornix"
-  },
-  {
-    "filename": "Vent_fornix_.jpg",
-    "name": "fornix"
-  },
-  {
-    "filename": "Vent_head of caudate.jpg",
-    "name": "head of caudate"
-  },
-  {
-    "filename": "Vent_hippocampus.jpg",
-    "name": "hippocampus"
-  },
-  {
-    "filename": "Vent_infundibular recess.jpg",
-    "name": "infundibular recess"
-  },
-  {
-    "filename": "Vent_infundibulum.jpg",
-    "name": "infundibulum"
-  },
-  {
-    "filename": "Vent_interVentricular foramen.jpg",
-    "name": "interVentricular foramen"
-  },
-  {
-    "filename": "Vent_interVentricular foramen_horizontal.jpg",
-    "name": "interVentricular foramen"
-  },
-  {
-    "filename": "Vent_interVentricular foramen_real.jpg",
-    "name": "interVentricular foramen"
-  },
-  {
-    "filename": "Vent_lamina terminalis.jpg",
-    "name": "lamina terminalis"
-  },
-  {
-    "filename": "Vent_lateral apertures.jpg",
-    "name": "lateral apertures"
-  },
-  {
-    "filename": "Vent_median apertures.jpg",
-    "name": "median apertures"
-  },
-  {
-    "filename": "Vent_optic chiasm.jpg",
-    "name": "optic chiasm"
-  },
-  {
-    "filename": "Vent_optic radiation.jpg",
-    "name": "optic radiation"
-  },
-  {
-    "filename": "Vent_optic recess.jpg",
-    "name": "optic recess"
-  },
-  {
-    "filename": "Vent_parahippocampal gyrus.jpg",
-    "name": "parahippocampal gyrus"
-  },
-  {
-    "filename": "Vent_pes hippocampus.jpg",
-    "name": "pes hippocampus"
-  },
-  {
-    "filename": "Vent_pineal gland.jpg",
-    "name": "pineal gland"
-  },
-  {
-    "filename": "Vent_pineal recess.jpg",
-    "name": "pineal recess"
-  },
-  {
-    "filename": "Vent_septum pellucidum.jpg",
-    "name": "septum pellucidum"
-  },
-  {
-    "filename": "Vent_stria medullaris thalami.jpg",
-    "name": "stria medullaris thalami"
-  },
-  {
-    "filename": "Vent_stria terminalis.jpg",
-    "name": "stria terminalis"
-  },
-  {
-    "filename": "Vent_striae medullaris thalami.jpg",
-    "name": "striae medullaris thalami"
-  },
-  {
-    "filename": "Vent_subcallosal area.jpg",
-    "name": "subcallosal area"
-  },
-  {
-    "filename": "Vent_suprapineal recess.jpg",
-    "name": "suprapineal recess"
-  },
-  {
-    "filename": "Vent_tail of caudate .jpg",
-    "name": "tail of caudate "
-  },
-  {
-    "filename": "Vent_tela choroidea.jpg",
-    "name": "tela choroidea"
-  },
-  {
-    "filename": "Vent_tela choroidea_.jpg",
-    "name": "tela choroidea"
-  },
-  {
-    "filename": "Vent_thalami.jpg",
-    "name": "thalami"
-  },
-  {
-    "filename": "Vent_transvers fissure.jpg",
-    "name": "transvers fissure"
-  },
-  {
-    "filename": "Vertebra_Vertebral foramen.png",
+    "filename": "Spinal Cord_Vertebral foramen.png",
     "name": "Vertebral foramen"
   },
   {
-    "filename": "Vertebra_body.png",
+    "filename": "Spinal Cord_body.png",
     "name": "body"
   },
   {
-    "filename": "Vertebra_cauda equina.png",
+    "filename": "Spinal Cord_cauda equina.png",
     "name": "cauda equina"
   },
   {
-    "filename": "Vertebra_cervical enlargment.png",
+    "filename": "Spinal Cord_cervical enlargment.png",
     "name": "cervical enlargment"
   },
   {
-    "filename": "Vertebra_coccygeal ligament.png",
+    "filename": "Spinal Cord_coccygeal ligament.png",
     "name": "coccygeal ligament"
   },
   {
-    "filename": "Vertebra_conus medullaris.png",
+    "filename": "Spinal Cord_conus medullaris.png",
     "name": "conus medullaris"
   },
   {
-    "filename": "Vertebra_dorsal horn.png",
+    "filename": "Spinal Cord_dorsal horn.png",
     "name": "dorsal horn"
   },
   {
-    "filename": "Vertebra_dorsal median sulcus.png",
+    "filename": "Spinal Cord_dorsal median sulcus.png",
     "name": "dorsal median sulcus"
   },
   {
-    "filename": "Vertebra_dorsal root ganglion.png",
+    "filename": "Spinal Cord_dorsal root ganglion.png",
     "name": "dorsal root ganglion"
   },
   {
-    "filename": "Vertebra_dorsal rootlets.png",
+    "filename": "Spinal Cord_dorsal rootlets.png",
     "name": "dorsal rootlets"
   },
   {
-    "filename": "Vertebra_dorsal spinal nerve.png",
+    "filename": "Spinal Cord_dorsal spinal nerve.png",
     "name": "dorsal spinal nerve"
   },
   {
-    "filename": "Vertebra_dural sac.png",
+    "filename": "Spinal Cord_dural sac.png",
     "name": "dural sac"
   },
   {
-    "filename": "Vertebra_filum terminale.png",
+    "filename": "Spinal Cord_filum terminale.png",
     "name": "filum terminale"
   },
   {
-    "filename": "Vertebra_gray matter.png",
+    "filename": "Spinal Cord_gray matter.png",
     "name": "gray matter"
   },
   {
-    "filename": "Vertebra_intervertibral foramen.png",
+    "filename": "Spinal Cord_intervertibral foramen.png",
     "name": "intervertibral foramen"
   },
   {
-    "filename": "Vertebra_lambar enlargment.png",
+    "filename": "Spinal Cord_lambar enlargment.png",
     "name": "lambar enlargment"
   },
   {
-    "filename": "Vertebra_lamina.png",
+    "filename": "Spinal Cord_lamina.png",
     "name": "lamina"
   },
   {
-    "filename": "Vertebra_mixed spinal nerve.png",
+    "filename": "Spinal Cord_mixed spinal nerve.png",
     "name": "mixed spinal nerve"
   },
   {
-    "filename": "Vertebra_pedicles.png",
+    "filename": "Spinal Cord_pedicles.png",
     "name": "pedicles"
   },
   {
-    "filename": "Vertebra_spinous process.png",
+    "filename": "Spinal Cord_spinous process.png",
     "name": "spinous process"
   },
   {
-    "filename": "Vertebra_transverse foramina.png",
+    "filename": "Spinal Cord_transverse foramina.png",
     "name": "transverse foramina"
   },
   {
-    "filename": "Vertebra_transverse process.png",
+    "filename": "Spinal Cord_transverse process.png",
     "name": "transverse process"
   },
   {
-    "filename": "Vertebra_ventral horn.png",
+    "filename": "Spinal Cord_ventral horn.png",
     "name": "ventral horn"
   },
   {
-    "filename": "Vertebra_ventral median fissure.png",
+    "filename": "Spinal Cord_ventral median fissure.png",
     "name": "ventral median fissure"
   },
   {
-    "filename": "Vertebra_ventral rootlets.png",
+    "filename": "Spinal Cord_ventral rootlets.png",
     "name": "ventral rootlets"
   },
   {
-    "filename": "Vertebra_ventral spinal root.png",
+    "filename": "Spinal Cord_ventral spinal root.png",
     "name": "ventral spinal root"
   },
   {
-    "filename": "Vertebra_white matter.png",
+    "filename": "Spinal Cord_white matter.png",
     "name": "white matter"
   },
   {
-    "filename": "WM_anterior commisure.jpg",
-    "name": "anterior commisure"
+    "filename": "Ventricles_alveus.jpg",
+    "name": "alveus"
   },
   {
-    "filename": "WM_anterior limb of internal capsule.jpg",
-    "name": "anterior limb of internal capsule"
+    "filename": "Ventricles_body of caudate.jpg",
+    "name": "body of caudate"
   },
   {
-    "filename": "WM_auditory radiation_projections.jpg",
-    "name": "auditory radiation"
+    "filename": "Ventricles_bulb of occipital horn.jpg",
+    "name": "bulb of occipital horn"
   },
   {
-    "filename": "WM_caudate nucleus_horizontal.jpg",
-    "name": "caudate nucleus"
+    "filename": "Ventricles_calcar avis.jpg",
+    "name": "calcar avis"
   },
   {
-    "filename": "WM_clastrum (gray).jpg",
-    "name": "clastrum (gray)"
+    "filename": "Ventricles_calcarine sulcus.jpg",
+    "name": "calcarine sulcus"
   },
   {
-    "filename": "WM_external capsule (white).jpg",
-    "name": "external capsule (white)"
+    "filename": "Ventricles_cerebral aqueduct.jpg",
+    "name": "cerebral aqueduct"
   },
   {
-    "filename": "WM_extreme capsule (white).jpg",
-    "name": "extreme capsule (white)"
+    "filename": "Ventricles_choroid fissure.jpg",
+    "name": "choroid fissure"
   },
   {
-    "filename": "WM_forceps major.jpg",
+    "filename": "Ventricles_choroid plexus.jpg",
+    "name": "choroid plexus"
+  },
+  {
+    "filename": "Ventricles_choroid plexus_.jpg",
+    "name": "choroid plexus"
+  },
+  {
+    "filename": "Ventricles_choroid plexus_temp horn.jpg",
+    "name": "choroid plexus"
+  },
+  {
+    "filename": "Ventricles_collateral eminence.jpg",
+    "name": "collateral eminence"
+  },
+  {
+    "filename": "Ventricles_collateral sulcus.jpg",
+    "name": "collateral sulcus"
+  },
+  {
+    "filename": "Ventricles_cornu ammonis.jpg",
+    "name": "cornu ammonis"
+  },
+  {
+    "filename": "Ventricles_dentate gyrus.jpg",
+    "name": "dentate gyrus"
+  },
+  {
+    "filename": "Ventricles_fimbria.jpg",
+    "name": "fimbria"
+  },
+  {
+    "filename": "Ventricles_forceps major.jpg",
     "name": "forceps major"
   },
   {
-    "filename": "WM_forceps minor.jpg",
-    "name": "forceps minor"
+    "filename": "Ventricles_fornices.jpg",
+    "name": "fornices"
   },
   {
-    "filename": "WM_genu of internal capsule.jpg",
-    "name": "genu of internal capsule"
+    "filename": "Ventricles_fornix.jpg",
+    "name": "fornix"
   },
   {
-    "filename": "WM_globus pallidus externus.jpg",
-    "name": "globus pallidus externus"
+    "filename": "Ventricles_fornix_.jpg",
+    "name": "fornix"
   },
   {
-    "filename": "WM_globus pallidus internus.jpg",
-    "name": "globus pallidus internus"
+    "filename": "Ventricles_head of caudate.jpg",
+    "name": "head of caudate"
   },
   {
-    "filename": "WM_habenular commisure.jpg",
-    "name": "habenular commisure"
+    "filename": "Ventricles_hippocampus.jpg",
+    "name": "hippocampus"
   },
   {
-    "filename": "WM_hippocampal commisure.jpg",
-    "name": "hippocampal commisure"
+    "filename": "Ventricles_infundibular recess.jpg",
+    "name": "infundibular recess"
   },
   {
-    "filename": "WM_indusium griseum.jpg",
-    "name": "indusium griseum"
+    "filename": "Ventricles_infundibulum.jpg",
+    "name": "infundibulum"
   },
   {
-    "filename": "WM_inferior fronto occipital fasciculus.jpg",
-    "name": "inferior fronto occipital fasciculus"
+    "filename": "Ventricles_interVentricular foramen.jpg",
+    "name": "interVentricular foramen"
   },
   {
-    "filename": "WM_inferior longitudinal fasciculus.jpg",
-    "name": "inferior longitudinal fasciculus"
+    "filename": "Ventricles_interVentricular foramen_horizontal.jpg",
+    "name": "interVentricular foramen"
   },
   {
-    "filename": "WM_insula_horizontal.jpg",
-    "name": "insula"
+    "filename": "Ventricles_interVentricular foramen_real.jpg",
+    "name": "interVentricular foramen"
   },
   {
-    "filename": "WM_internal capsule_projections.jpg",
-    "name": "internal capsule"
+    "filename": "Ventricles_lamina terminalis.jpg",
+    "name": "lamina terminalis"
   },
   {
-    "filename": "WM_lateral logitudial stria.jpg",
-    "name": "lateral logitudial stria"
+    "filename": "Ventricles_lateral apertures.jpg",
+    "name": "lateral apertures"
   },
   {
-    "filename": "WM_lentiform_projections.jpg",
-    "name": "lentiform"
+    "filename": "Ventricles_median apertures.jpg",
+    "name": "median apertures"
   },
   {
-    "filename": "WM_medial longitudial stria.jpg",
-    "name": "medial longitudial stria"
+    "filename": "Ventricles_optic chiasm.jpg",
+    "name": "optic chiasm"
   },
   {
-    "filename": "WM_optic radiation_projections.jpg",
+    "filename": "Ventricles_optic radiation.jpg",
     "name": "optic radiation"
   },
   {
-    "filename": "WM_posterior commisure.jpg",
+    "filename": "Ventricles_optic recess.jpg",
+    "name": "optic recess"
+  },
+  {
+    "filename": "Ventricles_parahippocampal gyrus.jpg",
+    "name": "parahippocampal gyrus"
+  },
+  {
+    "filename": "Ventricles_pes hippocampus.jpg",
+    "name": "pes hippocampus"
+  },
+  {
+    "filename": "Ventricles_pineal gland.jpg",
+    "name": "pineal gland"
+  },
+  {
+    "filename": "Ventricles_pineal recess.jpg",
+    "name": "pineal recess"
+  },
+  {
+    "filename": "Ventricles_septum pellucidum.jpg",
+    "name": "septum pellucidum"
+  },
+  {
+    "filename": "Ventricles_stria medullaris thalami.jpg",
+    "name": "stria medullaris thalami"
+  },
+  {
+    "filename": "Ventricles_stria terminalis.jpg",
+    "name": "stria terminalis"
+  },
+  {
+    "filename": "Ventricles_striae medullaris thalami.jpg",
+    "name": "striae medullaris thalami"
+  },
+  {
+    "filename": "Ventricles_subcallosal area.jpg",
+    "name": "subcallosal area"
+  },
+  {
+    "filename": "Ventricles_suprapineal recess.jpg",
+    "name": "suprapineal recess"
+  },
+  {
+    "filename": "Ventricles_tail of caudate .jpg",
+    "name": "tail of caudate "
+  },
+  {
+    "filename": "Ventricles_tela choroidea.jpg",
+    "name": "tela choroidea"
+  },
+  {
+    "filename": "Ventricles_tela choroidea_.jpg",
+    "name": "tela choroidea"
+  },
+  {
+    "filename": "Ventricles_thalami.jpg",
+    "name": "thalami"
+  },
+  {
+    "filename": "Ventricles_transvers fissure.jpg",
+    "name": "transvers fissure"
+  },
+  {
+    "filename": "White Matter_anterior commisure.jpg",
+    "name": "anterior commisure"
+  },
+  {
+    "filename": "White Matter_anterior limb of internal capsule.jpg",
+    "name": "anterior limb of internal capsule"
+  },
+  {
+    "filename": "White Matter_auditory radiation_projections.jpg",
+    "name": "auditory radiation"
+  },
+  {
+    "filename": "White Matter_caudate nucleus_horizontal.jpg",
+    "name": "caudate nucleus"
+  },
+  {
+    "filename": "White Matter_clastrum (gray).jpg",
+    "name": "clastrum (gray)"
+  },
+  {
+    "filename": "White Matter_external capsule (white).jpg",
+    "name": "external capsule (white)"
+  },
+  {
+    "filename": "White Matter_extreme capsule (white).jpg",
+    "name": "extreme capsule (white)"
+  },
+  {
+    "filename": "White Matter_forceps major.jpg",
+    "name": "forceps major"
+  },
+  {
+    "filename": "White Matter_forceps minor.jpg",
+    "name": "forceps minor"
+  },
+  {
+    "filename": "White Matter_genu of internal capsule.jpg",
+    "name": "genu of internal capsule"
+  },
+  {
+    "filename": "White Matter_globus pallidus externus.jpg",
+    "name": "globus pallidus externus"
+  },
+  {
+    "filename": "White Matter_globus pallidus internus.jpg",
+    "name": "globus pallidus internus"
+  },
+  {
+    "filename": "White Matter_habenular commisure.jpg",
+    "name": "habenular commisure"
+  },
+  {
+    "filename": "White Matter_hippocampal commisure.jpg",
+    "name": "hippocampal commisure"
+  },
+  {
+    "filename": "White Matter_indusium griseum.jpg",
+    "name": "indusium griseum"
+  },
+  {
+    "filename": "White Matter_inferior fronto occipital fasciculus.jpg",
+    "name": "inferior fronto occipital fasciculus"
+  },
+  {
+    "filename": "White Matter_inferior longitudinal fasciculus.jpg",
+    "name": "inferior longitudinal fasciculus"
+  },
+  {
+    "filename": "White Matter_insula_horizontal.jpg",
+    "name": "insula"
+  },
+  {
+    "filename": "White Matter_internal capsule_projections.jpg",
+    "name": "internal capsule"
+  },
+  {
+    "filename": "White Matter_lateral logitudial stria.jpg",
+    "name": "lateral logitudial stria"
+  },
+  {
+    "filename": "White Matter_lentiform_projections.jpg",
+    "name": "lentiform"
+  },
+  {
+    "filename": "White Matter_medial longitudial stria.jpg",
+    "name": "medial longitudial stria"
+  },
+  {
+    "filename": "White Matter_optic radiation_projections.jpg",
+    "name": "optic radiation"
+  },
+  {
+    "filename": "White Matter_posterior commisure.jpg",
     "name": "posterior commisure"
   },
   {
-    "filename": "WM_posterior limb of internal capsule.jpg",
+    "filename": "White Matter_posterior limb of internal capsule.jpg",
     "name": "posterior limb of internal capsule"
   },
   {
-    "filename": "WM_putamen.jpg",
+    "filename": "White Matter_putamen.jpg",
     "name": "putamen"
   },
   {
-    "filename": "WM_superior colliculi.jpg",
+    "filename": "White Matter_superior colliculi.jpg",
     "name": "superior colliculi"
   },
   {
-    "filename": "WM_superior longitudinal fasciculus.jpg",
+    "filename": "White Matter_superior longitudinal fasciculus.jpg",
     "name": "superior longitudinal fasciculus"
   },
   {
-    "filename": "WM_thalamus.jpg",
+    "filename": "White Matter_thalamus.jpg",
     "name": "thalamus"
   },
   {
-    "filename": "WM_u fibers (short association).jpg",
+    "filename": "White Matter_u fibers (short association).jpg",
     "name": "u fibers (short association)"
   },
   {
-    "filename": "WM_uncinate fasciculus.jpg",
+    "filename": "White Matter_uncinate fasciculus.jpg",
     "name": "uncinate fasciculus"
   },
   {
