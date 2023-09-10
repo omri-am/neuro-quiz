@@ -46,7 +46,11 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
       .filter((answer) =>
         correct ? answer.isAnswerCorrect : !answer.isAnswerCorrect
       )
-      .sort((a, b) => a.answerDistance - b.answerDistance)
+      .sort((a, b) =>
+        correct
+          ? a.answerDistance - b.answerDistance
+          : a.image.name.localeCompare(b.image.name)
+      )
       .map((answer, index) => (
         <div
           key={`answer_${index}`}

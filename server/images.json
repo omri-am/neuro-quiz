@@ -1,13 +1,5 @@
 [
   {
-    "filename": "Blood Vessels_AICA.jpg",
-    "name": "AICA"
-  },
-  {
-    "filename": "Blood Vessels_PICA.jpg",
-    "name": "PICA"
-  },
-  {
     "filename": "Blood Vessels_abducens nerve.jpg",
     "name": "abducens nerve"
   },
@@ -22,6 +14,10 @@
   {
     "filename": "Blood Vessels_anterior communicating artery.jpg",
     "name": "anterior communicating artery"
+  },
+  {
+    "filename": "Blood Vessels_anterior inferior cerebellar artery.jpg",
+    "name": "anterior inferior cerebellar artery"
   },
   {
     "filename": "Blood Vessels_basal vein.jpg",
@@ -82,6 +78,10 @@
   {
     "filename": "Blood Vessels_posterior communicating artery.jpg",
     "name": "posterior communicating artery"
+  },
+  {
+    "filename": "Blood Vessels_posterior inferior cerebellar artery.jpg",
+    "name": "posterior inferior cerebellar artery"
   },
   {
     "filename": "Blood Vessels_septal vein.jpg",
@@ -872,76 +872,140 @@
     "name": "uncus"
   },
   {
-    "filename": "Coronal Sections_amygdala.jpg",
-    "name": "amygdala"
+    "filename": "Coronal Sections_alveus.jpg",
+    "name": "alveus"
   },
   {
-    "filename": "Coronal Sections_anterior commissure.jpg",
-    "name": "anterior commissure"
+    "filename": "Coronal Sections_amygdala.jpg",
+    "name": "amygdala"
   },
   {
     "filename": "Coronal Sections_anterior commissure_1.jpg",
     "name": "anterior commissure"
   },
   {
-    "filename": "Coronal Sections_body of fornix.jpg",
-    "name": "body of fornix"
+    "filename": "Coronal Sections_anterior commissure_2.jpg",
+    "name": "anterior commissure"
   },
   {
-    "filename": "Coronal Sections_column of fornix.jpg",
-    "name": "column of fornix"
+    "filename": "Coronal Sections_caudate nucleus_1.jpg",
+    "name": "caudate nucleus"
+  },
+  {
+    "filename": "Coronal Sections_caudate nucleus_2.jpg",
+    "name": "caudate nucleus"
+  },
+  {
+    "filename": "Coronal Sections_caudate nucleus_3.jpg",
+    "name": "caudate nucleus"
+  },
+  {
+    "filename": "Coronal Sections_claustrum.jpg",
+    "name": "claustrum"
+  },
+  {
+    "filename": "Coronal Sections_claustrum_1.jpg",
+    "name": "claustrum"
+  },
+  {
+    "filename": "Coronal Sections_claustrum_2.jpg",
+    "name": "claustrum"
+  },
+  {
+    "filename": "Coronal Sections_claustrum_3.jpg",
+    "name": "claustrum"
+  },
+  {
+    "filename": "Coronal Sections_corpus callosum.jpg",
+    "name": "corpus callosum"
   },
   {
     "filename": "Coronal Sections_crus cerebri.jpg",
     "name": "crus cerebri"
   },
   {
-    "filename": "Coronal Sections_crus of fornix_1.jpg",
-    "name": "crus of fornix"
-  },
-  {
     "filename": "Coronal Sections_dentate gyrus.jpg",
     "name": "dentate gyrus"
   },
   {
-    "filename": "Coronal Sections_dentate gyrus_1.jpg",
-    "name": "dentate gyrus"
+    "filename": "Coronal Sections_external capsule.jpg",
+    "name": "external capsule"
+  },
+  {
+    "filename": "Coronal Sections_external capsule_2.jpg",
+    "name": "external capsule"
+  },
+  {
+    "filename": "Coronal Sections_extreme capsule.jpg",
+    "name": "extreme capsule"
+  },
+  {
+    "filename": "Coronal Sections_extreme capsule_2.jpg",
+    "name": "extreme capsule"
   },
   {
     "filename": "Coronal Sections_fimbria.jpg",
     "name": "fimbria"
   },
   {
-    "filename": "Coronal Sections_fimbria_1.jpg",
-    "name": "fimbria"
+    "filename": "Coronal Sections_forceps minor.jpg",
+    "name": "forceps minor"
+  },
+  {
+    "filename": "Coronal Sections_fornix.jpg",
+    "name": "fornix"
+  },
+  {
+    "filename": "Coronal Sections_globus pallidus externus.jpg",
+    "name": "globus pallidus externus"
+  },
+  {
+    "filename": "Coronal Sections_globus pallidus internus.jpg",
+    "name": "globus pallidus internus"
   },
   {
     "filename": "Coronal Sections_hippocampus.jpg",
     "name": "hippocampus"
   },
   {
-    "filename": "Coronal Sections_hypothalami.jpg",
-    "name": "hypothalami"
-  },
-  {
     "filename": "Coronal Sections_infundibulum.jpg",
     "name": "infundibulum"
   },
   {
-    "filename": "Coronal Sections_interventricular foramen_1.jpg",
-    "name": "interventricular foramen"
+    "filename": "Coronal Sections_insula.jpg",
+    "name": "insula"
+  },
+  {
+    "filename": "Coronal Sections_insula_1.jpg",
+    "name": "insula"
+  },
+  {
+    "filename": "Coronal Sections_insula_2.jpg",
+    "name": "insula"
+  },
+  {
+    "filename": "Coronal Sections_internal capsule.jpg",
+    "name": "internal capsule"
+  },
+  {
+    "filename": "Coronal Sections_internal capsule_1.jpg",
+    "name": "internal capsule"
+  },
+  {
+    "filename": "Coronal Sections_internal capsule_2.jpg",
+    "name": "internal capsule"
   },
   {
     "filename": "Coronal Sections_lateral geniculate body.jpg",
     "name": "lateral geniculate body"
   },
   {
-    "filename": "Coronal Sections_mammilary bodies.jpg",
-    "name": "mammilary bodies"
+    "filename": "Coronal Sections_lateral ventricles_1.jpg",
+    "name": "lateral ventricles"
   },
   {
-    "filename": "Coronal Sections_mammilothalamic tract.jpg",
-    "name": "mammilothalamic tract"
+    "filename": "Coronal Sections_lentiform.jpg",
+    "name": "lentiform"
   },
   {
     "filename": "Coronal Sections_medial geniculate body.jpg",
@@ -952,23 +1016,31 @@
     "name": "nucleus accumbens"
   },
   {
-    "filename": "Coronal Sections_optic chiasm.jpg",
-    "name": "optic chiasm"
+    "filename": "Coronal Sections_optic chaisem.jpg",
+    "name": "optic chaisem"
   },
   {
     "filename": "Coronal Sections_optic tract.jpg",
     "name": "optic tract"
   },
   {
-    "filename": "Coronal Sections_optic tract_1.jpg",
-    "name": "optic tract"
+    "filename": "Coronal Sections_optic tracts_1.jpg",
+    "name": "optic tracts"
+  },
+  {
+    "filename": "Coronal Sections_optic tracts_2.jpg",
+    "name": "optic tracts"
   },
   {
     "filename": "Coronal Sections_parahippocampal gyrus.jpg",
     "name": "parahippocampal gyrus"
   },
   {
-    "filename": "Coronal Sections_putamen.jpg",
+    "filename": "Coronal Sections_putamen_1.jpg",
+    "name": "putamen"
+  },
+  {
+    "filename": "Coronal Sections_putamen_2.jpg",
     "name": "putamen"
   },
   {
@@ -976,23 +1048,35 @@
     "name": "red nucleus"
   },
   {
+    "filename": "Coronal Sections_septum pellucidum_1.jpg",
+    "name": "septum pellucidum"
+  },
+  {
+    "filename": "Coronal Sections_septum pellucidum_2.jpg",
+    "name": "septum pellucidum"
+  },
+  {
+    "filename": "Coronal Sections_splenium.jpg",
+    "name": "splenium"
+  },
+  {
+    "filename": "Coronal Sections_substantia nigra.jpg",
+    "name": "substantia nigra"
+  },
+  {
     "filename": "Coronal Sections_subthalamic nucleus.jpg",
     "name": "subthalamic nucleus"
   },
   {
-    "filename": "Coronal Sections_tail of caudate.jpg",
-    "name": "tail of caudate"
+    "filename": "Coronal Sections_temporal horn of lateral ventricle.jpg",
+    "name": "temporal horn of lateral ventricle"
   },
   {
-    "filename": "Coronal Sections_thalamostriate vein and stria terminalis.jpg",
-    "name": "thalamostriate vein and stria terminalis"
+    "filename": "Coronal Sections_thalamus.jpg",
+    "name": "thalamus"
   },
   {
-    "filename": "Coronal Sections_third ventricle_1.jpg",
-    "name": "third ventricle"
-  },
-  {
-    "filename": "Coronal Sections_third ventricle_2.jpg",
+    "filename": "Coronal Sections_third ventricle.jpg",
     "name": "third ventricle"
   },
   {
