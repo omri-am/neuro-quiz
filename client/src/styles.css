@@ -18,39 +18,24 @@
   text-align: center;
 }
 
-.results-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 20px;
-  align-items: center;
-}
-
-.result-item {
-  text-align: center;
-}
-
 .answer-container {
   position: relative;
   display: inline-block;
-  margin: 10px;
-}
-
-.answer-card {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: transparent;
-  z-index: 1;
   text-align: center;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s ease-in-out;
-  border: 2px solid #000;
+  align-items: center;
+  z-index: 1;
+  width: 270px;
 }
 
-.answer-container:hover .answer-card {
-  opacity: 1;
+.results-grid {
+  display: grid;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+}
+
+.answer-container:hover .result-item {
   pointer-events: auto;
 }
 
@@ -60,8 +45,8 @@
   background-color: white;
   border: 2px gray;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-  max-width: 75%;
-  padding-top: 5px;
+  position: relative;
+  z-index: 2;
 }
 
 .quiz-screen {

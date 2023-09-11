@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-server/imagestest_test.jpg
+server/images/test_test.jpg
+server/images/test_test2.jpg
+

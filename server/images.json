@@ -1574,5 +1574,9 @@
   {
     "filename": "test_test.jpg",
     "name": "test"
+  },
+  {
+    "filename": "test_test2.jpg",
+    "name": "test2"
   }
 ]
