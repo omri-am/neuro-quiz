@@ -41,13 +41,15 @@ const highlightIncorrectLetters = (answer, correctAnswer) => {
 
 const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
   const [hoveredCardIndex, setHoveredCardIndex] = useState(null);
+  const [sortOption, setSortOption] = useState("alphabetical");
+
   const resultsGrid = (answers, correct) => {
     return answers
       .filter((answer) =>
         correct ? answer.isAnswerCorrect : !answer.isAnswerCorrect
       )
       .sort((a, b) =>
-        correct
+        sortOption === "accuracy"
           ? a.answerDistance - b.answerDistance
           : a.image.name.localeCompare(b.image.name)
       )
@@ -97,7 +99,20 @@ const ScoresScreen = ({ score, shuffledImages, answers, handleTryAgain }) => {
         <p>
           Quiz completed! Final Score: {score} out of {shuffledImages.length}
         </p>
-        <button onClick={handleTryAgain}>Try again</button>
+        <div>
+          <label htmlFor="sortOption">Sort answers by: </label>
+          <select
+            id="sortOption"
+            value={sortOption}
+            onChange={(e) => setSortOption(e.target.value)}
+          >
+            <option value="alphabetical">Alphabetical Order</option>
+            <option value="accuracy">Answers' Accuracy</option>
+          </select>
+        </div>
+        <p>
+          <button onClick={handleTryAgain}>Try again</button>
+        </p>
         <h2>Correct Answers</h2>
         <div className="results-grid"> {resultsGrid(answers, true)}</div>
         <h2>Incorrect Answers</h2>
